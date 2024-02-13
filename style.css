@@ -29,23 +29,23 @@
   
   @keyframes bg-change {
     0% {
-      background-image: url(../public/images/lover\ 1.jpg);
+      background-image: url(./images/lover\ 1.jpg);
     }
   
     20% {
-      background-image: url(../public/images/lover2.jpg);
+      background-image: url(./images/lover2.jpg);
     }
 
     40% {
-      background-image: url(../public/images/lover3.jpg);
+      background-image: url(./images/lover3.jpg);
     }
 
     60% {
-      background-image: url(../public/images/lover4.jpg);
+      background-image: url(./images/lover4.jpg);
     }
 
     100% {
-      background-image: url(../public/images/lover5.jpg);
+      background-image: url(./images/lover5.jpg);
     }
 
     
